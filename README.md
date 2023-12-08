@@ -1,4 +1,4 @@
-# machine-learning
+# data-science-portfolio
 Simple projects to learn machine learning in Python.
 
 # naive-bayes-classifier
